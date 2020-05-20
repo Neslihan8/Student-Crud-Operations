@@ -1,0 +1,5 @@
+org\hs\studentcrudoperations\util\HibernateUtil.class
+org\hs\studentcrudoperations\bean\DropdownView.class
+org\hs\studentcrudoperations\bean\StudentBean.class
+org\hs\studentcrudoperations\pojo\Student.class
+org\hs\studentcrudoperations\dao\StudentDAO.class
